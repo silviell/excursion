@@ -28,3 +28,14 @@ h1 p {
     font-size: 21px;
     color: gray;
 }
+
+.icon {
+    padding-top: 30px;
+}
+
+.footer {
+    text-align: right;
+    color: gray;
+    font-family: Verdana;
+    padding-right: 10px;
+}
